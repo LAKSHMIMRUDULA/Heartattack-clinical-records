@@ -1,1 +1,18 @@
 # Heartattack-clinical-records
+![image](https://user-images.githubusercontent.com/77747784/122893626-1f48ff00-d364-11eb-880d-7a0b791485ca.png)
+
+![image](https://user-images.githubusercontent.com/77747784/122892113-bdd46080-d362-11eb-8d48-7b84c986947a.png)
+![image](https://user-images.githubusercontent.com/77747784/122892188-cf1d6d00-d362-11eb-99fe-68ae6097445d.png)
+![image](https://user-images.githubusercontent.com/77747784/122892295-e2303d00-d362-11eb-9f29-29068287656e.png)
+![image](https://user-images.githubusercontent.com/77747784/122892342-ee1bff00-d362-11eb-98b8-a4e7875d5b8a.png)
+![image](https://user-images.githubusercontent.com/77747784/122892411-fd9b4800-d362-11eb-95c2-701ea56d87b1.png)
+![image](https://user-images.githubusercontent.com/77747784/122892452-07bd4680-d363-11eb-999d-cc43cd30d518.png)
+![image](https://user-images.githubusercontent.com/77747784/122892544-1c014380-d363-11eb-85fc-61b15c6e7edb.png)
+![image](https://user-images.githubusercontent.com/77747784/122892632-2e7b7d00-d363-11eb-88ae-4b9a5df34647.png)
+![image](https://user-images.githubusercontent.com/77747784/122892730-45ba6a80-d363-11eb-9bc9-fd261ea2ebc1.png)
+![image](https://user-images.githubusercontent.com/77747784/122892786-51a62c80-d363-11eb-81c5-7c367e66abe7.png)
+![image](https://user-images.githubusercontent.com/77747784/122892837-5ff44880-d363-11eb-9c5f-d1a28ea1d9b6.png)
+![image](https://user-images.githubusercontent.com/77747784/122893260-caa58400-d363-11eb-8789-e935e8c77654.png)
+![image](https://user-images.githubusercontent.com/77747784/122893295-d4c78280-d363-11eb-8bf2-ace423835396.png)
+![image](https://user-images.githubusercontent.com/77747784/122893355-e4df6200-d363-11eb-9509-2bb93231b2ee.png)
+![image](https://user-images.githubusercontent.com/77747784/122893439-f58fd800-d363-11eb-96c9-baf628fecb66.png)
